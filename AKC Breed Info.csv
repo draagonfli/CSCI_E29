@@ -1,0 +1,155 @@
+Breed,height_low_inches,height_high_inches,weight_low_lbs,weight_high_lbs,weight_avg,size
+Affenpinscher,9,12,8,12,10,mini
+Afghan Hound,25,27,50,60,55,medium
+Airdale Terrier,22,24,45,45,45,medium
+Akita,26,28,80,120,100,giant
+Alaskan Malamute,na,na,na,na,,
+American Eskimo,9,19,25,30,27.5,small
+American Foxhound,22,25,65,70,67.5,large
+American Staffordshire Terrier,17,19,40,50,45,medium
+American Water Spaniel,15,18,25,45,35,small
+Anatolian Sheepdog,27,29,100,150,125,giant
+Australian Cattle Dog,17,20,35,45,40,medium
+Australian Shepherd,18,23,40,60,50,medium
+Australian Terrier,10,10,10,14,12,mini
+Basenji,17,17,20,22,21,small
+Basset Hound,14,14,40,50,45,medium
+Beagle,13,16,18,30,24,small
+Bearded Collie,20,22,40,60,50,medium
+Beauceron,24,27,100,120,110,giant
+Bedlington Terrier,15,16,18,23,20.5,small
+Belgian Malinois,22,26,60,65,62.5,medium
+Belgian Sheepdog,22,26,60,75,67.5,large
+Belgian Tervuren,22,26,60,75,67.5,large
+Bernese Mountain Dog,23,27,85,110,97.5,giant
+Bichon Frise,9.5,11.5,10,18,14,mini
+Black And Tan Coonhound,23,27,50,75,62.5,medium
+Black Russian Terrier,25,29,80,140,110,giant
+Bloodhound,24,26,80,120,100,giant
+Border Collie,19,21,40,40,40,medium
+Border Terrier,12,15,12,15,13.5,mini
+Borzoi,26,28,70,100,85,giant
+Boston Terrier,14,15,15,25,20,small
+Bouvier Des Flandres,23,27,75,95,85,giant
+Boxer,21,25,65,70,67.5,large
+Briard,23,27,74,76,75,large
+Brittany,17,21,30,40,35,small
+Brussels Griffon,7,8,6,12,9,mini
+Bull Dog,12,16,50,60,55,medium
+Bull Terrier,21,22,50,70,60,medium
+Bullmastiff,25,27,100,130,115,giant
+Cairn Terrier,9,10,14,14,14,mini
+Canaan Dog,19,24,35,55,45,medium
+Cardigan Welsh Corgi,10,12,25,35,30,small
+Cavalier King Charles Spaniel,10,15,15,20,17.5,small
+Chesapeake Bay Retriever,21,26,55,75,65,large
+Chihuahua,6,9,2,5,3.5,mini
+Chinese Crested,11,13,5,12,8.5,mini
+Chinese Shar Pei,18,20,45,55,50,medium
+Chow Chow,19,22,45,55,50,medium
+Clumber Spaniel,19,20,35,65,50,medium
+Cocker Spaniel-American,15,16,22,28,25,small
+Cocker Spaniel-English,15,17,25,35,30,small
+Collie (Rough) & (Smooth),22,26,50,75,62.5,medium
+Coton de Tulear,na,na,na,na,,
+Curly Coated Retriever,25,27,65,80,72.5,large
+Dachshund,7,10,16,32,24,small
+Dalmatian,19,23,45,70,57.5,medium
+Dandie Dinmont Terrier,18,24,8,11,9.5,mini
+Doberman Pinscher,26,28,60,100,80,large
+English Foxhound,22,25,65,70,67.5,large
+English Setter,23,27,45,80,62.5,medium
+English Springer Spaniel,20,20,45,55,50,medium
+English Toy Spaniel,10,10,9,15,12,mini
+Field Spaniel,18,18,35,50,42.5,medium
+Finnish Spitz,15,20,31,35,33,small
+Flat Coated Retriever,22,23,60,70,65,large
+Fox Terrier â€“ Smooth,13,16,15,20,17.5,small
+Fox Terrier â€“ Wirehair,13,16,15,20,17.5,small
+French Bulldog,11,12,17,28,22.5,small
+German Pinscher,16,19,25,35,30,small
+German Shepherd,22,26,75,90,82.5,large
+German Shorthaired Pointer,20,27,50,80,65,large
+German Wirehaired Pointer,22,26,60,70,65,large
+Giant Schnauzer,25,28,70,75,72.5,large
+Glen Imaal Terrier,14,14,34,36,35,small
+Golden Retriever,21,24,55,75,65,large
+Gordon Setter,23,27,45,80,62.5,medium
+Great Dane,32,32,120,160,140,giant
+Great Pyrenees,27,32,95,120,107.5,giant
+Great Swiss Mountain Dog,23,28,130,150,140,giant
+Greyhound,27,30,60,70,65,large
+Harrier,19,21,40,60,50,medium
+Ibizan Hound,22,29,42,55,48.5,medium
+Irish Setter,25,27,60,70,65,large
+Irish Terrier,18,19,25,27,26,small
+Irish Water Spaniel,10,23,45,65,55,medium
+Irish Wolfhound,28,35,90,150,120,giant
+Italian Greyhound,12,15,6,10,8,mini
+Japanese Chin,8,11,4,11,7.5,mini
+Keeshond,17,19,35,50,42.5,medium
+Kerry Blue Terrier,17,21,30,45,37.5,small
+Komondor,26.5,35.5,80,135,107.5,giant
+Kuvasz,28,30,70,120,95,giant
+Labrador Retriever,21,24,55,80,67.5,large
+Lakeland Terrier,13,14,15,17,16,small
+Maltese,8,10,4,6,5,mini
+Manchester Terrier (Standard),15,16,17,18,17.5,small
+Manchester Terrier (Toy),10,12,6,8,7,mini
+Mastiff,27,30,175,190,182.5,giant
+Neopolitan Mastiff,24,30,100,150,125,giant
+Newfoundland,26,28,100,150,125,giant
+Norwegian Elkhound,19,20,40,60,50,medium
+Nova Scotia Duck Tolling Retriever,17,21,35,50,42.5,medium
+Old English Sheepdog (Bobtail),20,24,60,65,62.5,medium
+Otter Hound,24,26,65,110,87.5,giant
+Papillon,8,11,5,10,7.5,mini
+Petit Basset Griffon Vendeen,13,15,30,40,35,small
+Pharaoh Hound,21,25,45,55,50,medium
+Plott Hound,20,24,45,55,50,medium
+Pointer,21,24,44,66,55,medium
+Polish Lowland Sheepdog,16,20,30,35,32.5,small
+Pomeranian,12,12,3,7,5,mini
+Miniature Poodle,10,15,20,20,20,small
+Poodle Standard,15,25,45,45,45,medium
+Poodle Toy,10,10,10,10,10,mini
+Portuguese Water Dog,20,23,42,60,51,medium
+Pug,10,11,14,22,18,small
+Puli,16,17,29,33,31,small
+Redbone Coonhound,21,27,50,70,60,medium
+Rhodesian Ridgeback,24,27,70,85,77.5,large
+Rottweiler,22,27,90,110,100,giant
+Saint Bernard,25,28,110,190,150,giant
+Saluki,23,28,35,70,52.5,medium
+Samoyed,19,24,50,65,57.5,medium
+Schipperke,10,13,12,18,15,small
+Scottish Deerhound,28,32,75,110,92.5,giant
+Scottish Terrier,10,12,18,22,20,small
+Sealyham Terrier,12,12,18,20,19,small
+Shetland Sheepdog (Sheltie),13,16,14,20,17,small
+Shiba Inu,13,16,15,30,22.5,small
+Shih Tzu,8,11,9,16,12.5,mini
+Siberian Husky,20,23,40,60,50,medium
+Silky Terrier,9,10,8,11,9.5,mini
+Skye Terrier,10,10,25,25,25,small
+Soft-Coated Wheaten Terrier,18,20,35,45,40,medium
+Spinone Italiano,23,28,65,80,72.5,large
+Staffordshire Bull Terrier,14,16,24,28,26,small
+Standard Schnauzer,17,19,33,33,33,small
+Sussex Spaniel,15,16,40,45,42.5,medium
+Tibetan Mastiff,24,26,140,170,155,giant
+Tibetan Spaniel,10,10,9,15,12,mini
+Tibetan Terrier,14,17,20,30,25,small
+Toy Fox Terrier,10,10,4,7,5.5,mini
+Vizsla,48,66,22,25,23.5,small
+Weimaraner,25,27,70,85,77.5,large
+Welsh Springer Spaniel,16,19,35,45,40,medium
+Welsh Terrier,15,15,20,21,20.5,small
+West Highland White Terrier,11,11,13,15,14,mini
+Whippet,18,22,27,30,28.5,small
+Wirehaired Pointing Griffon,20,24,45,60,52.5,medium
+Yorkshire Terrier,8,8,3,7,5,mini
+Pit Bull,,,,,,medium
+Jack Russell Terrier,,,,,,small
+Catahoula,,,,,,large
+Staffordshire,,,,,,small
